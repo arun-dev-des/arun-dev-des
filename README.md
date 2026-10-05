@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Arunkumar
 
-Product Designer × AI Builder. I design and ship AI tools, Framer plugins and developer APIs.
+Product Designer x Engineer. I design and ship AI tools, plugins and developer APIs.
 
 ### 🚀 Things I've built
 
