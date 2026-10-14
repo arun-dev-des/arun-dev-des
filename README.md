@@ -7,6 +7,7 @@ Product Designer x Engineer. I design and ship AI tools, plugins and developer A
 | Project | What it is |
 |---|---|
 | [**First Rank Pro**](https://www.framer.com/marketplace/plugins/first-rank-pro/) | SEO audit plugin for Framer with AI-powered fixes and a live SERP preview. · [code](https://github.com/arun-dev-des/FirstRankPro) |
+| [**ConvertKitty**](https://convertkitty.com) | Free archive converter for 38 formats (ZIP, RAR, 7Z, TAR and more). Runs in your browser with 7-Zip compiled to WebAssembly, so files stay on your device. |
 | [**iLoveRemoveBG**](https://iloveremovebg.com) | Free background remover: no signup, no watermark, full-size PNG download. |
 | [**greymemory**](https://greymemory.vercel.app) | Self-hosted memory engine for AI agents that knows when facts change (80% on LongMemEval). · [code](https://github.com/arun-dev-des/greymemory) |
 | [**Prompt → Blade UI**](https://razorpay-challenge.vercel.app) | Type a prompt → Claude designs the screen → it renders in real Razorpay Blade components. · [code](https://github.com/arun-dev-des/prompt-to-blade-ui) |
